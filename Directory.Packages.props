@@ -5,5 +5,7 @@
   <ItemGroup>
     <PackageVersion Include="Microsoft.AspNetCore.OpenApi" Version="9.0.3" />
     <PackageVersion Include="Scalar.AspNetCore" Version="2.4.13" />
+    <PackageVersion Include="Serilog.AspNetCore" Version="9.0.0" />
+    <PackageVersion Include="Serilog.Sinks.Console" Version="6.0.0" />
   </ItemGroup>
 </Project>
