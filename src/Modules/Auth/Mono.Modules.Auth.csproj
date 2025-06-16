@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Mono.Modules.Auth</RootNamespace>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\Common\Mono.Shared.Common.csproj" />
+    <ProjectReference Include="..\..\Shared\Kernel\Mono.Shared.Kernel.csproj" />
+  </ItemGroup>
+</Project>
